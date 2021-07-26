@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "리액트 네비게이션과 리덕트의 사용 연습을 위한 프로젝트입니다."
   }
 }
